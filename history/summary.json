@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 449,
-    "timeWeek": 228,
-    "timeMonth": 240,
+    "timeDay": 319,
+    "timeWeek": 224,
+    "timeMonth": 238,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -48,7 +50,7 @@
     "uptimeYear": "99.96%",
     "time": 378,
     "timeDay": 399,
-    "timeWeek": 369,
+    "timeWeek": 380,
     "timeMonth": 328,
     "timeYear": 368,
     "dailyMinutesDown": {
@@ -80,7 +82,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "24.42%",
+    "uptime": "24.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -91,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-08": 5,
+      "2022-03-08": 1068,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
